@@ -4,3 +4,4 @@ GItの練習です。
 Git add
 Git commit　を勉強します
 REMOVEを勉強
+次はGit statusです
