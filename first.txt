@@ -5,3 +5,5 @@ Git add
 Git commit　を勉強します
 REMOVEを勉強
 次はGit statusです
+
+gitDIFFは？
